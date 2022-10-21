@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Retr0verse
-- 👀 I’m interested in ... God, my fiance ;), family, rpg gaming, conventions, UFOs, old skool horror movies & Late 90's/2000's comedies..
+- 👀 I’m interested in ... God, my beautiful fiance, family, rpg gaming, theories of the Universe, cult classic horror movies & Late 90's/2000's comedies..
 - 🌱 I’m currently learning ... HTML CSS / freecodecamp
-- 💞️ I’m looking to collaborate on ... Ask Me later
+- 💞️ I’m looking to collaborate on ... beginner to intermediate HTML/CSS projects
 - 📫 How to reach me ... gt4magnet@protonmail.com 
 
 <!---
