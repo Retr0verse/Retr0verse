@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://retr0verse.github.io/Portfolio-Page/](https://retr0verse.github.io/Portfolio-Page/)
+- 👨‍💻 Additional projects are available at [https://retr0verse.github.io/Portfolio-Page/](https://retr0verse.github.io/Portfolio-Page/)
 
 - 💬 Ask me about **html, css**
 
