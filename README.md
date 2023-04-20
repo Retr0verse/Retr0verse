@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">An eager developer & passionate gamer from Austin</h3>
+<h3 align="center">A passionate developer from San Antonio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retr0verse&label=Profile%20views&color=09dcb9&style=plastic" alt="retr0verse" /> </p>
 
