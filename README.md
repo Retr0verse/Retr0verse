@@ -11,8 +11,6 @@
 
 - 👨‍💻 Additional projects are available at [https://retr0verse.github.io/Portfolio-Page/](https://retr0verse.github.io/Portfolio-Page/)
 
-- 💬 Ask me about **html, css**
-
 - 📫 How to reach me **gt4magnet@protonmail.com**
 
 - ⚡ Fun fact **estou aprendendo Portugues!**
