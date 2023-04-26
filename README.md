@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Calculator](https://github.com/Retr0verse/calculator.git)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m learning **Javascript**
 
 - 👨‍💻 Additional projects are available at [https://retr0verse.github.io/Portfolio-Page/](https://retr0verse.github.io/Portfolio-Page/)
 
