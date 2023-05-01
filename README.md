@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retr0verse" alt="retr0verse" /></a> </p>
 
-- 🔭 I’m currently working on [Calculator](https://github.com/Retr0verse/calculator.git)
+- 🔭 I’m currently working on [CV Application](https://github.com/Retr0verse/CV_application.git)
 
-- 🌱 I’m learning **Javascript**
+- 🌱 I’m learning **React**
 
 - 👨‍💻 Additional projects are available at [https://retr0verse.github.io/Portfolio-Page/](https://retr0verse.github.io/Portfolio-Page/)
 
 - 📫 How to reach me **gt4magnet@protonmail.com**
-
-- ⚡ Fun fact **estou aprendendo Portugues!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
