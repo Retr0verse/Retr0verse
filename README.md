@@ -9,7 +9,7 @@
 
 - 🌱 I’m learning **React**
 
-- 👨‍💻 Additional projects are available at [https://retr0verse.github.io/Portfolio-Page/](https://retr0verse.github.io/Portfolio-Page/)
+- 👨‍💻 First portfolio and simple tutorial projects available at [https://retr0verse.github.io/Portfolio-Page/](https://retr0verse.github.io/Portfolio-Page/)
 
 - 📫 How to reach me **gt4magnet@protonmail.com**
 
