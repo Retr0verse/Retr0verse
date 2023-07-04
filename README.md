@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retr0verse" alt="retr0verse" /></a> </p>
 
-- 🔭 I’m currently working on [CV Application](https://github.com/Retr0verse/CV_application.git)
-
-- 🌱 I’m learning **React**
-
-- 👨‍💻 First portfolio and simple tutorial projects available at [https://retr0verse.github.io/Portfolio-Page/](https://retr0verse.github.io/Portfolio-Page/)
-
 - 📫 How to reach me **gt4magnet@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
