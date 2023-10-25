@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retr0verse" alt="retr0verse" /></a> </p>
 
-- 👨‍💻 My portfolio is at **[kennedycode.dev](kennedycode.dev)**
+- 👨‍💻 My portfolio is at **[https://kennedycode.dev/](kennedycode.dev)**
 
 - 📫 How to reach me **kennedycode@protonmail.com**
 
