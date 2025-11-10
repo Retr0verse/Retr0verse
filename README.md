@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio is at **[[kennedycode.dev](https://kennedycode.dev/)]**
 
-- 📫 How to reach me **kennedycode@protonmail.com**
+- 📫 How to reach me **jonathan.x.kennedy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
