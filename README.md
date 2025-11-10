@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retr0verse" alt="retr0verse" /></a> </p>
 
-- 👨‍💻 My portfolio is at **[[kennedycode.dev](https://kennedycode.dev/)]**
+Portfolio: jonathanxkennedy.carrd.co
 
-- 📫 How to reach me **jonathan.x.kennedy@gmail.com**
+LinkedIn: linkedin.com/in/jonathanxkennedy
+
+Email: jonathan.x.kennedy@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
