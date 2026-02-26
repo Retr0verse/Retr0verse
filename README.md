@@ -3,7 +3,6 @@
 
 
 
-**Portfolio:** [jonathanxkennedy.carrd.co](https://jonathanxkennedy.carrd.co)  
 **LinkedIn:** [linkedin.com/in/jonathanxkennedy](https://linkedin.com/in/jonathanxkennedy)  
 **Email:** [jonathan.x.kennedy@gmail.com](mailto:jonathan.x.kennedy@gmail.com)
 
